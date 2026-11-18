@@ -1,0 +1,10 @@
+{
+  "name": "skirmish-signal",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "peer": "^1.0.2"
+  }
+}
